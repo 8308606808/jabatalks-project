@@ -1,4 +1,4 @@
-package com.deeps.pages;
+package com.jabatalks.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

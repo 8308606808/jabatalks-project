@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test name="FunctionalTest">
         <classes>
-            <class name="com.deeps.testscript.LoginTest">
+            <class name="com.jabatalks.testscript.LoginTest">
                 <methods>
                     <include name="login"/>
                 </methods>

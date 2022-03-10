@@ -1,8 +1,7 @@
-package com.deeps.testscript;
+package com.jabatalks.testscript;
 
-import com.deeps.pages.LoginPage;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+
+import com.jabatalks.pages.LoginPage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
